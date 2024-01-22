@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Libo Zhang(张立博), a third year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/), major in Mathematics and Physics & Energy and Power Engineering. My research interest lies at the intersection of computer vision and computer graphics, including neural rendering, visual geometric computing, and face modeling. 
+I'm Libo Zhang(张立博), a third year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/), major in Mathematics and Physics & Energy and Power Engineering. My research interest lies at the intersection of 3D vision and computer graphics, including neural rendering, visual geometric computing, and face modeling. 
 
 I am very fortunate to be advised by [Prof. Feng Xu](http://xufeng.site/) of 3D Vision and Graphics Lab from [School of Software](https://cs.pku.edu.cn/), Tsinghua University. 
 
@@ -19,7 +19,7 @@ Education Experience
 <!-- <img style="float: left" src="../hyximages/border_row1.png" width="10px"> -->
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
-  <font size="2">September 2021 -  <br></font> 
+  <font size="2">September 2021 - present <br></font> 
   <font size="2">Undergraduate at <a href="https://www.wyc.tsinghua.edu.cn/">Weiyang College</a><br></font>
 </p>  
 </div>
