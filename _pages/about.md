@@ -23,11 +23,11 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      <a>Xin Ming</a>, 
-      <a>Jiawei Li</a>,
-      <a>Jingwang Lin</a>,
+      Xin Ming, 
+      Jiawei Li,
+      Jingwang Lin,
       <b>Libo Zhang</b>,
-      <a>Feng Xu</a>,
+      Feng Xu
       <br>
     </font> 
     <font size="2">
