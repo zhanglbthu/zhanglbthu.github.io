@@ -15,7 +15,7 @@ Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
 <div>
-<img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
+<img style="float: left; width: 75px" src="../images/edu/THU.jpeg">
 <!-- <img style="float: left" src="../hyximages/border_row1.png" width="10px"> -->
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
@@ -24,8 +24,9 @@ Education Experience
 </p>  
 </div>
 
-Preprints
+Publications
 ------
+### Preprints
 <div>
   <img style="float: left" src="../images/pub/mingxin_cvpr2024.png" width="175px">
 </div>
@@ -36,8 +37,8 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      Xin Ming, 
-      Jiawei Li,
+      Xin Ming&ast;, 
+      Jiawei Li&ast;,
       Jingwang Lin,
       <b>Libo Zhang</b>,
       Feng Xu
@@ -57,7 +58,7 @@ Reserach Experience
 ------
 ### High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering
 **Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** June 2023 - November 2023, submitted to CVPR 2024
+**Duration:** June 2023 - November 2023, submitted to CVPR 2024 
 **Description:**  
 - Proposed a video-based facial rigging technique that bridges traditional animation pipelines and neural inverse rendering to achieve high-quality animation-ready facial rig reconstruction from single or sparse multi-view videos.
 - Developed a novel blendshape deformation technique that parametrizes differential coordinates augmented with tetrahedral connections, involving a set of semantic regularization into a joint optimization.
@@ -65,13 +66,14 @@ Reserach Experience
 
 ### 3D Gaussian-based real-time relighting
 **Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** October 2023 - Present, in progress
+**Duration:** October 2023 - Present, in progress 
 **Description:**  
 - Proposed a 3D Gaussian-based relighting technique that bridges the gap between real-time and high quality in relighting
 - Implemented a model for learning neural light transport from light stage datasets that can learn complex material details
 
 
 Honors & Awards
+------
 - Comprehensive Excellence First Prize Scholarship, 2022
 - Science and Technology Innovation Outstanding Scholarship, 2022
 - Artificial Intelligence Challenge 3rd Prize, 2022
