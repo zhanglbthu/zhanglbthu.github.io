@@ -20,7 +20,7 @@ Education Experience
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
   <font size="2">September 2021 -  <br></font> 
-  <font size="2">Undergraduate at <a href="https://www.wyc.tsinghua.edu.cn/"></a><br></font>
+  <font size="2">Undergraduate at <a href="https://www.wyc.tsinghua.edu.cn/">Weiyang College</a><br></font>
 </p>  
 </div>
 
@@ -58,7 +58,7 @@ Reserach Experience
 ------
 ### High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering
 **Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** June 2023 - November 2023, submitted to CVPR 2024 
+**Duration:** June 2023 - November 2023, submitted to CVPR 2024  
 **Description:**  
 - Proposed a video-based facial rigging technique that bridges traditional animation pipelines and neural inverse rendering to achieve high-quality animation-ready facial rig reconstruction from single or sparse multi-view videos.
 - Developed a novel blendshape deformation technique that parametrizes differential coordinates augmented with tetrahedral connections, involving a set of semantic regularization into a joint optimization.
@@ -66,7 +66,7 @@ Reserach Experience
 
 ### 3D Gaussian-based real-time relighting
 **Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** October 2023 - Present, in progress 
+**Duration:** October 2023 - Present, in progress  
 **Description:**  
 - Proposed a 3D Gaussian-based relighting technique that bridges the gap between real-time and high quality in relighting
 - Implemented a model for learning neural light transport from light stage datasets that can learn complex material details
