@@ -35,7 +35,7 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2401.08398">[paper]</a> / 
+      <a href="https://arxiv.org/abs/2401.08398">[paper]</a>
     </font>
   </p>
 </div>
