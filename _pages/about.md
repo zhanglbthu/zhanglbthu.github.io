@@ -16,7 +16,7 @@ Education Experience
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
 <div>
 <img style="float: left; width: 75px" src="../images/edu/THU.jpeg">
-<!-- <img style="float: left" src="../hyximages/border_row1.png" width="10px"> -->
+<img style="float: left" src="../images/utils/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
   <font size="2">September 2021 - present <br></font> 
@@ -29,6 +29,9 @@ Publications
 ### Preprints
 <div>
   <img style="float: left" src="../images/pub/mingxin_cvpr2024.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/utils/border_row1.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -58,12 +61,12 @@ Reserach Experience
 ------
 <div>
 <img style="float: left; width: 75px" src="../images/edu/THU.jpeg">
-<!-- <img style="float: left" src="../hyximages/border_row1.png" width="10px"> -->
+<img style="float: left" src="../images/utils/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
   <font size="2">July 2023 - May 2024 <br></font> 
   <font size="2">Research Intern at 3D Vision and Graphics Lab, School of Software<br></font>
-  <font size="2">Advised by <a href="http://xufeng.site/">Prof. Feng Xu</a><br></font>
+  <font size="2">Advised by <a href="http://xufeng.site/">Prof. Feng Xu</a></font>
 </p>  
 </div>
 
