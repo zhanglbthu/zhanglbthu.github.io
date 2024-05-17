@@ -56,20 +56,16 @@ Publications
 
 Reserach Experience
 ------
-### High-Quality Mesh Blendshape Generation from Face Videos via Neural Inverse Rendering
-**Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** June 2023 - November 2023, submitted to CVPR 2024  
-**Description:**  
-- Proposed a video-based facial rigging technique that bridges traditional animation pipelines and neural inverse rendering to achieve high-quality animation-ready facial rig reconstruction from single or sparse multi-view videos.
-- Developed a novel blendshape deformation technique that parametrizes differential coordinates augmented with tetrahedral connections, involving a set of semantic regularization into a joint optimization.
-- Implemented a neural regressor modeling time-varying motion parameters to achieve implicit time synchronization across multiple views.
-
-### 3D Gaussian-based real-time relighting
-**Advisor:** [Prof. Feng Xu](http://xufeng.site/), 3D Vision and Graphics Lab, School of Software, Tsinghua University  
-**Duration:** October 2023 - Present, in progress  
-**Description:**  
-- Proposed a 3D Gaussian-based relighting technique that bridges the gap between real-time and high quality in relighting
-- Implemented a model for learning neural light transport from light stage datasets that can learn complex material details
+<div>
+<img style="float: left; width: 75px" src="../images/edu/THU.jpeg">
+<!-- <img style="float: left" src="../hyximages/border_row1.png" width="10px"> -->
+<p style="line-height:125%">
+  <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
+  <font size="2">July 2023 - May 2024 <br></font> 
+  <font size="2">Research Intern at 3D Vision and Graphics Lab, School of Software<br></font>
+  <font size="2">Advised by <a href="http://xufeng.site/">Prof. Feng Xu</a><br></font>
+</p>  
+</div>
 
 
 Honors & Awards
