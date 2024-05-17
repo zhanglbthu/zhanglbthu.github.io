@@ -31,7 +31,7 @@ Publications
   <img style="float: left" src="../images/pub/mingxin_cvpr2024.png" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../images/utils/border_row1.png" width="10px">
+  <img style="float: left" src="../images/utils/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
