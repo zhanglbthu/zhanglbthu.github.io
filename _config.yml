@@ -77,12 +77,11 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : "Libo Zhang"
   avatar           : "avatar.png"
-  bio              : "Junior undergrad at Tsinghua University, major in Mathematics and Physics"
+  bio              : "Junior undergrad at Tsinghua University, majoring in Mathematics and Physics."
   location         : "Tsinghua, Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
