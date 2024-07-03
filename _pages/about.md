@@ -11,6 +11,10 @@ I'm Libo Zhang(张立博), a third year undergraduate student at [Tsinghua Unive
 
 I am very fortunate to be advised by [Prof. Feng Xu](http://xufeng.site/) of 3D Vision and Graphics Lab from [School of Software](https://cs.pku.edu.cn/), Tsinghua University. 
 
+News
+------
+* [2024.6] One paper accepted to ECCV 2024.
+
 Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
@@ -26,7 +30,7 @@ Education Experience
 
 Publications
 ------
-### Preprints
+<!-- ### Preprints -->
 <div>
   <img style="float: left" src="../images/pub/mingxin_cvpr2024.png" width="175px">
 </div>
@@ -48,7 +52,9 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Preprint, 2023.11
+      <b>
+        ECCV 2024
+      </b>
       <br>
     </font> 
     <font size="2">
